@@ -1,8 +1,8 @@
-# The Cayman theme
+# WELCOME TO THE ACEP DATABASE
 
-*Cayman is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
+*Non-registered Users: F    rom this screen you can check the status of a specific ACEP mnumber or, by entering a container operator's name, check to see which ACEP numbers are associated with a particular owner.
 
-![Thumbnail of Cayman](thumbnail.png)
+Registered Users: Depending on your access rights, once logged-ion you will be able to manage Approving Cometent or manage ACEP numbers.*
 
 ## Usage
 
