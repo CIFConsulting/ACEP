@@ -1,2 +1,20 @@
+theme: 
 title: Global ACEP database
 description: The BIC operates the Global ACEP Database under the guidance of the International Maritime Organization (IMO), which has encouraged all National Administrations to utilize the database for the publication of their ACEPs (see CSC.1/CIRC.143 and CSC.1/CIRC.138/REV.1).
+
+baseurl: "" # the subpath of your site, e.g. /blog
+
+markdown: kramdown
+kramwdown:
+  parse_block_html: true
+
+gems: [jekyll-toc]
+
+defaults:
+  -
+    scope:
+      path: "specs"
+      type: "pages"
+    values:
+      layout: "specs"
+      toc: true
