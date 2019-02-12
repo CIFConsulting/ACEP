@@ -6,4 +6,4 @@ BIC have made available the ACEP codes in Github to provide machine readable cod
 
 If you wish to view the ACEP numbers in a website please visit https://www.bic-acep.org or https://www.bic-code.org/acep for further information.
 
-The Data provided here is under the unknown license .. 
+The Data provided here is under the ODC-PDDL-1.0? license ..
