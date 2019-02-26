@@ -41,12 +41,12 @@
 					{
 						"name": "DELIVERING AUTHORITY",
 						"type": "string",
-						"description": ""
+						"description": "Reported delivering authority for ACEP"
 					},
 					{
 						"name": "ADMINISTRATION",
 						"type": "string",
-						"description": ""
+						"description": "Reported administration for ACEP"
 					},
 			  ]
 			}
